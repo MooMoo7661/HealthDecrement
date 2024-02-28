@@ -1,0 +1,20 @@
+This mod will decrease your max hp every time you die. It has configurable amounts, and also includes commands.
+
+
+HOW TO USE THIS MOD:
+Go into the config and change the amount of max hp you want to lose per death, or leave it the same.
+Type /help into the in-game chat to see the commands available
+
+Commands:
+
+"resethp"
+Resets the counter for how much of your max HP is currently being taken
+
+"lockhp"
+Locks your max HP from being affected per death
+
+"unlockhp"
+Unlocks your max HP from being affected per death
+
+"settakenhp"
+Sets the counter for how much of your max HP is currently being taken

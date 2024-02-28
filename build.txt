@@ -1,0 +1,6 @@
+displayName = Health Decrement
+author = MooMoo
+version = 1.0.1
+hideCode = false
+hideResources = false
+includeSource = true

@@ -1,0 +1,15 @@
+Configs: {
+	PlayerConfig: {
+		Ghosting: {
+			Tooltip: Allows players to turn into ghosts when max hp becomes zero (they die too much)
+			Label: Ghosting
+		}
+
+		HealthDecreaseCount: {
+			Tooltip: Controls the amount of max hp taken per death
+			Label: Max HP taken
+		}
+
+		DisplayName: Player Config
+	}
+}
